@@ -1,7 +1,7 @@
 # Donate-Blood
-Online blood bank system using PHP, MySQL, AJAX in which user can donate and search for any nearby donors. Admin can view all donors and receivers by filtering their locations.
+Online blood bank system using PHP, MySQL, AJAX in which user can register themselves and donate , search for any nearby donors. Admin can view all donors and receivers by filtering their locations.
 
-Also users can reset their password.
+Users can reset their password by getting code on their registered email ID.
 
 # Requirements
 
