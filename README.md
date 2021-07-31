@@ -25,7 +25,6 @@ Follow this link:https://www.youtube.com/watch?v=ueWpNe0PG34
 ![6](https://user-images.githubusercontent.com/79975210/127750187-628f51f0-70fd-4b61-ae8e-d55867752269.PNG)
 ![7](https://user-images.githubusercontent.com/79975210/127750188-f3fce637-135d-4be6-8260-3e5a72157ce4.PNG)
 ![8](https://user-images.githubusercontent.com/79975210/127750193-163802df-9e04-4b41-8d39-b6376006862c.PNG)
-![9](https://user-images.githubusercontent.com/79975210/127750194-8ba60277-a1da-4513-a2d8-fccd20518bfe.PNG)
 ![10](https://user-images.githubusercontent.com/79975210/127750196-562dcfdb-900b-4874-bb69-74bfd839b0b8.PNG)
 ![11](https://user-images.githubusercontent.com/79975210/127750197-b51eba64-1211-4292-865e-e61a254267d2.PNG)
 ![12](https://user-images.githubusercontent.com/79975210/127750198-58119164-a282-45d2-aba8-04f37cf966ec.PNG)
